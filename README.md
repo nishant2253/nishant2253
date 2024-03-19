@@ -1,5 +1,3 @@
-
-)https://photos.app.goo.gl/A8V1oZLS17vbQcDq7
 <h1 align="center">Hi 👋, I'm Nishant Gupta</h1>
 <h3 align="center">"Hello! 👋 I'm Nishant Gupta, a second-year Electronics and Communication undergraduate at Maharaja Agrasen Institute of Technology. Passionate about innovation and problem-solving, I thrive in the competitive programming realm, actively participating in platforms like Codeforces. Currently engaged in the Gssoc program, I love contributing to open-source projects, resolving bugs, and implementing new features. Excited about the dynamic world of full-stack development, I'm on a mission to make a meaningful impact in open-source projects. My curiosity extends to the ever-evolving blockchain and web3 space, where I aim to explore and contribute to the future of decentralized technologies</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
