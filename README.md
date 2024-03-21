@@ -17,7 +17,18 @@
 </div>
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 <br><br>
+<div align="left"> 
+  <h3> 👨🏻‍💻 My Coding Journey in a nutshell </h3>
 
+  - 🎨 &nbsp; C
+  - 🚀 &nbsp I joined Girl Script Summer of Code in June 2023, kickstarting my open-source journey.
+  - 💻 &nbsp; Learned basic Git commands and began exploring open source contributions.
+  - 🌱 &nbsp; Embraced version control and Linux commands for efficient project management.
+  - 🛠️ &nbsp; Engaged in Hacktoberfest in September, honing code contribution skills.
+  - 🚀 &nbsp  Actively making pull requests and gaining hands-on experience in open-source collaboration.
+  - 💻 &nbsp; Currently busy in Google Summer of Code; updates to follow soon.
+.  
+</div> 
 <div>
   <h3> 💻 Languages and Tools </h3>
   <p>
