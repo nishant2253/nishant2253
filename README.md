@@ -24,7 +24,7 @@
 <div align="left"> 
   <h3> 👨🏻‍💻 Open Source Journey </h3>
 
-  - 🚀 &nbsp I joined Girl Script Summer of Code in June 2023, kickstarting my open-source journey.
+  - :whale: &nbsp; I joined Girl Script Summer of Code in June 2023, kickstarting my open-source journey.
   - 💻 &nbsp; Learned basic Git commands and began exploring open source contributions.
   - 🌱 &nbsp; Embraced version control and Linux commands for efficient project management.
   - 🛠️ &nbsp; Engaged in Hacktoberfest in September, honing code contribution skills.
