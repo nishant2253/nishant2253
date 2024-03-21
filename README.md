@@ -6,11 +6,11 @@
 <div align="left"> 
   <h3> 👨🏻‍💻 About Me </h3>
 
-  - 🎨 &nbsp; Contributing to open-source front-end projects, enriching my skills to master the art of front-end development.
-  - 🚀 &nbsp; Fueling my passion for problem-solving, data structures, and algorithms through active engagement on problem-solving platforms like Codeforces.
-  - 💻 &nbsp; Delving into backend technologies to power full-stack projects, mastering CRUD operations for seamless functionality.
-  - 🌱 &nbsp; Exploring the exciting realm of web3 technology, actively crafting decentralized applications and smart contracts with Solidity.
-  - 🛠️ &nbsp; Thrive in hackathon environments, passionately participating in web3 and full-stack domains to ideate and develop innovative projects.
+  - :computer: &nbsp; Contributing to open-source front-end projects, enriching my skills to master the art of front-end development.
+  - :floppy_disk: &nbsp; Fueling my passion for problem-solving, data structures, and algorithms through active engagement on problem-solving platforms like Codeforces.
+  - :dvd: &nbsp; Delving into backend technologies to power full-stack projects, mastering CRUD operations for seamless functionality.
+  - :iphone: &nbsp; Exploring the exciting realm of web3 technology, actively crafting decentralized applications and smart contracts with Solidity.
+  - :trackball: &nbsp; Thrive in hackathon environments, passionately participating in web3 and full-stack domains to ideate and develop innovative projects.
 
 .  
 </div>
