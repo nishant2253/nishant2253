@@ -1,5 +1,5 @@
 <h1 align="center">Hey there! I'm Nishant Gupta <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7bb1e704-6026-48f9-8435-2f4d40101348" width="50" >&nbsp;&nbsp;</h1>
-<h3 align="center"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/2c0eef4b-7b75-42bd-9722-4bea97a2d532" width="40">&nbsp; Full Stack Developer | Angular Dev | Open Source | Web3 | Competitive Programmer <img src="https://user-images.githubusercontent.com/74038190/216649426-0c2ee152-84d8-4707-85c4-27a378d2f78a.gif" width="30" /> </h3>
+<h3 align="center"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/2c0eef4b-7b75-42bd-9722-4bea97a2d532" width="40">&nbsp; Full Stack Developer | Angular Dev | Open Source | Web3 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/02d5a390-b263-43a4-981c-fbdc18c8b902" width="30" /> Competitive Programmer <img src="https://user-images.githubusercontent.com/74038190/216649426-0c2ee152-84d8-4707-85c4-27a378d2f78a.gif" width="30" /> </h3>
 <div>
 <img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" width="35%" height ="300px" align ="right" alt="PIC">
 
