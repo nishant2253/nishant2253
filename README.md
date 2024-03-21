@@ -20,8 +20,7 @@
 <br><br>
 </div>  
 <div>
-<img src="https://user-images.githubusercontent.com/74038190/212284145-bf2c01a8-c448-4f1a-b911-996024c84606.gif" width="35%" height="300px" align="right" alt="PIC">
-  
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/ff1b5f32-9420-4dde-b2b9-ed2c0aa17459" width="35%" height ="300px" align ="right" alt="PIC">  
 <div align="left"> 
   <h3> 👨🏻‍💻 Open Source Journey </h3>
 
