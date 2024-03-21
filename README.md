@@ -13,13 +13,14 @@
   - 🛠️ &nbsp; Thrive in hackathon environments, passionately participating in web3 and full-stack domains to ideate and develop innovative projects.
 
 .  
-</div> 
 </div>
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
-<br><be>
+</div>
+<div>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700" algin = "center">
+</div>
 
 <div>
-<img src="https://user-images.githubusercontent.com/74038190/212284145-bf2c01a8-c448-4f1a-b911-996024c84606.gif" width="35%" height="300px" algin="left" alt="PIC">
+<img src="https://user-images.githubusercontent.com/74038190/212284145-bf2c01a8-c448-4f1a-b911-996024c84606.gif" width="35%" height="300px" algin="right" alt="PIC">
   
 <div align="left"> 
   <h3> 👨🏻‍💻 Open Source Journey </h3>
