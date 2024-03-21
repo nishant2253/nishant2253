@@ -26,10 +26,10 @@
 
   - :whale: &nbsp; I joined Girl Script Summer of Code in June 2023, kickstarting my open-source journey.
   - :panda_face: &nbsp; Learned basic Git commands and began exploring open source contributions.
-  - 🌱 &nbsp; Embraced version control and Linux commands for efficient project management.
-  - 🛠️ &nbsp; Engaged in Hacktoberfest in September, honing code contribution skills.
-  - 🚀 &nbsp  Actively making pull requests and gaining hands-on experience in open-source collaboration.
-  - 💻 &nbsp; Currently busy in Google Summer of Code; updates to follow soon.
+  - :bird: &nbsp; Embraced version control and Linux commands for efficient project management.
+  - :snail: &nbsp; Engaged in Hacktoberfest in September, honing code contribution skills.
+  - :cat2: &nbsp  Actively making pull requests and gaining hands-on experience in open-source collaboration.
+  - :rabbit2: &nbsp; Currently busy in Google Summer of Code; updates to follow soon.
 .  
 </div> 
 </div>
