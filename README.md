@@ -42,8 +42,10 @@
 <div>
   <h3> <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/5a0ca158-4df4-4e05-b510-a37b228d4f08" width="30" />&nbsp; Connect with Me</h3>
   <p>
-    <img src="https://user-images.githubusercontent.com/74038190/235294011-b8074c31-9097-4a65-a594-4151b58743a8.gif" width="100" href="https://twitter.com/nishant_2253">
-    <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="100"href ="https://www.linkedin.com/in/-nishant-gupta-/">
+    <a href="href="https://twitter.com/nishant_2253"">
+    <img src="https://user-images.githubusercontent.com/74038190/235294011-b8074c31-9097-4a65-a594-4151b58743a8.gif" width="100" >
+     <a href ="https://www.linkedin.com/in/-nishant-gupta-/">
+    <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="100">
   </p>
 </div>
 
