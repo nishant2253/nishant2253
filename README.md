@@ -4,7 +4,7 @@
 <img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" width="35%" height ="300px" align ="right" alt="PIC">
 
 <div align="left"> 
-  <h3> <img src="https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif" width="25"> &nbsp; About Me </h3>
+  <h3> <img src="https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif" width="30"> &nbsp; About Me </h3>
 
   - :computer: &nbsp; Contributing to open-source front-end projects, enriching my skills to master the art of front-end development.
   - :floppy_disk: &nbsp; Fueling my passion for problem-solving, data structures, and algorithms through active engagement on problem-solving platforms like Codeforces.
@@ -22,7 +22,7 @@
 <div>
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/ff1b5f32-9420-4dde-b2b9-ed2c0aa17459" width="35%" height ="300px" align ="right" alt="PIC">  
 <div align="left"> 
-  <h3> 👨🏻‍💻 Open Source Journey </h3>
+  <h3> <img src="https://user-images.githubusercontent.com/74038190/216658104-661d7d68-0492-49c5-92f9-6f657f10cbc7.gif" width="30" /> &nbsp;Open Source Journey </h3>
 
   - :whale: &nbsp; I joined Girl Script Summer of Code in June 2023, kickstarting my open-source journey.
   - :panda_face: &nbsp; Learned basic Git commands and began exploring open source contributions.
