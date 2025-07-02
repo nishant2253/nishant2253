@@ -1,178 +1,50 @@
-# Hey there! I'm Nishant Gupta 👋
+<h1 align="center">Hey there! I'm Nishant Gupta <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7bb1e704-6026-48f9-8435-2f4d40101348" width="50" >&nbsp;&nbsp;</h1>
+<h4 align="center"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/79258361-c121-400c-8245-600b272b1eea" width="30" /> Full Stack Developer <img src="https://user-images.githubusercontent.com/74038190/216654095-6f6772e4-e433-4bba-9164-1ca6f463ac3f.gif" width="30" />  DSA <img src="https://user-images.githubusercontent.com/74038190/216658113-c947be31-78e5-4064-9cb5-7d23b49164e6.gif" width="30" /> Open Source <img src="https://user-images.githubusercontent.com/74038190/216649449-3f087222-10d7-4132-b128-0bb0830cdb9a.gif" width="30" /> Web3 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/02d5a390-b263-43a4-981c-fbdc18c8b902" width="30" /> 
+<div>
+<img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" width="35%" height ="300px" align ="right" alt="PIC">
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;DSA+Enthusiast;Open+Source+Contributor;Web3+Developer;Problem+Solver" alt="Typing SVG" />
+<div align="left"> 
+  <h3> <img src="https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif" width="30"> &nbsp; About Me </h3>
+
+  - :computer: &nbsp; Contributing to open-source front-end projects, enriching my skills to master the art of front-end development.
+  - :floppy_disk: &nbsp; Fueling my passion for problem-solving, data structures, and algorithms through active engagement on problem-solving platforms like Codeforces.
+  - :dvd: &nbsp; Delving into backend technologies to power full-stack projects, mastering CRUD operations for seamless functionality.
+  - :iphone: &nbsp; Exploring the exciting realm of web3 technology, actively crafting decentralized applications and smart contracts with Solidity.
+  - :trackball: &nbsp; Thrive in hackathon environments, passionately participating in web3 and full-stack domains to ideate and develop innovative projects.
+
+.  
 </div>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-username&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/your-username?label=Followers&style=social" alt="GitHub Followers" />
 </div>
+<div>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700" align ="center">
+<br><br>
+</div>  
+<div>
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/ff1b5f32-9420-4dde-b2b9-ed2c0aa17459" width="35%" height ="300px" align ="right" alt="PIC">  
+<div align="left"> 
+  <h3> <img src="https://user-images.githubusercontent.com/74038190/216658104-661d7d68-0492-49c5-92f9-6f657f10cbc7.gif" width="30" /> &nbsp;Open Source Journey </h3>
 
----
-
-## 🚀 About Me
-
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
-
-🔭 **Currently Working On:** Contributing to open-source projects and building full-stack applications
-
-💻 **Passionate About:** Data Structures & Algorithms, Web Development, and Web3 Technologies
-
-🌱 **Currently Learning:** Advanced backend technologies and smart contract development
-
-🎯 **Goals:** Mastering full-stack development while making meaningful open-source contributions
-
-⚡ **Fun Fact:** I thrive in hackathon environments and love solving complex problems!
-
----
-
-## 🛠️ Tech Stack
-
-### **Languages**
-<p>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" alt="Solidity" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-</p>
-
-### **Frontend Development**
-<p>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-</p>
-
-### **Backend Development**
-<p>
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" alt="Express.js" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-</p>
-
-### **Web3 & Blockchain**
-<p>
-  <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white" alt="Ethereum" />
-  <img src="https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white" alt="Web3.js" />
-  <img src="https://img.shields.io/badge/Hardhat-FFF100?style=for-the-badge" alt="Hardhat" />
-</p>
-
-### **Tools & Technologies**
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code" />
-</p>
-
----
-
-## 🌟 Open Source Journey
-
-<img align="right" alt="Open Source" width="350" src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif">
-
-**🚀 My Open Source Timeline:**
-
-- **June 2023** → Joined GirlScript Summer of Code - My first step into open source!
-- **Learning Phase** → Mastered Git commands, version control, and Linux fundamentals
-- **September 2023** → Participated in Hacktoberfest, made my first meaningful contributions
-- **Present** → Actively contributing to projects and participating in Google Summer of Code
-
-**📈 Contribution Stats:**
-- 🔥 50+ Pull Requests merged
-- 🌟 Contributing to 10+ repositories
-- 🎯 Focus areas: Frontend development, documentation, and bug fixes
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&langs_count=8&theme=tokyonight"/>
+  - :whale: &nbsp; I joined Girl Script Summer of Code in June 2023, kickstarting my open-source journey.
+  - :panda_face: &nbsp; Learned basic Git commands and began exploring open source contributions.
+  - :bird: &nbsp; Embraced version control and Linux commands for efficient project management.
+  - :snail: &nbsp; Engaged in Hacktoberfest in September, honing code contribution skills.
+  - :cat2: &nbsp  Actively making pull requests and gaining hands-on experience in open-source collaboration.
+  - :rabbit2: &nbsp; Currently busy in Google Summer of Code; updates to follow soon.
+.  
+</div> 
 </div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=your-username&theme=tokyo-night&area=true&hide_border=true" alt="Contribution Graph" />
-</div>
-
----
-
-## 🏆 Achievements & Certifications
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=your-username&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
-</div>
-
-**🎯 Competitive Programming:**
-- 🔥 Active on Codeforces with consistent problem-solving
-- 🏅 Participated in multiple coding contests and hackathons
-- 📈 Solved 500+ DSA problems across various platforms
-
----
-
-## 🚀 Featured Projects
-
-<div align="center">
-  
-[![Project 1](https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=project-1&theme=tokyonight)](https://github.com/your-username/project-1)
-[![Project 2](https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=project-2&theme=tokyonight)](https://github.com/your-username/project-2)
-[![Project 3](https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=project-3&theme=tokyonight)](https://github.com/your-username/project-3)
-[![Project 4](https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=project-4&theme=tokyonight)](https://github.com/your-username/project-4)
-
-</div>
-
----
-
-## 📝 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [Building Scalable Web Applications with Next.js](https://your-blog.com/post1)
-- [Getting Started with Smart Contract Development](https://your-blog.com/post2)
-- [My Open Source Journey: Lessons Learned](https://your-blog.com/post3)
-- [Data Structures Every Developer Should Know](https://your-blog.com/post4)
-<!-- BLOG-POST-LIST:END -->
-
----
-
-## 🤝 Let's Connect!
-
-<div align="center">
-  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/-nishant-gupta-/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/nishant_2253)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://your-portfolio.com)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nishantgupta1965@gmail.com)
-
-</div>
-
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
-</div>
-
-<div align="center">
-  <h3>💭 Quote of the Day</h3>
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote" />
-</div>
-
----
-
-<div align="center">
-  
-**⭐ Star this repository if you find it interesting!**
-
-*Made with ❤️ by Nishant Gupta*
-
+<div>
+  <h3><img src="https://user-images.githubusercontent.com/74038190/216656987-9b3a52af-79d3-418c-8789-579955588e68.gif" width="30" /> &nbsp; Languages and Tools </h3>
+  <p>
+   <img src="https://media.giphy.com/media/3rCcV6sC1o2GY/giphy.gif" width="50"><img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="50"><img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp"   width="50"><img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="50"><img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="50"><img src="https://media3.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.webp" width="50"><img src="https://media.giphy.com/media/SU2ic3wTfuC6JhD1lA/giphy.gif" width="50"><img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="100"><img src="https://media.giphy.com/media/SsCYf6DRFJrOpP0IoM/giphy.gif" width="70">
+  <p>
+</div> 
+<div>
+  <h3> <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/5a0ca158-4df4-4e05-b510-a37b228d4f08" width="30" />&nbsp; Connect with Me</h3>
+  <p>
+    <a href="href="https://twitter.com/nishant_2253">
+    <img src="https://user-images.githubusercontent.com/74038190/235294011-b8074c31-9097-4a65-a594-4151b58743a8.gif" width="100" >
+     <a href ="https://www.linkedin.com/in/-nishant-gupta-/">
+    <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="100">
+  </p>
 </div>
